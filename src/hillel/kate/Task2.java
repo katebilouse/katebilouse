@@ -1,5 +1,5 @@
 package hillel.kate;
-
+//lesson3
 import java.util.Scanner;
 
 public class Task2 {
