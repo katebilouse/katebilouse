@@ -1,7 +1,7 @@
 package hillel.kate;
 
 import java.util.Scanner;
-//урок 3
+
 public class Task2 {
     public static void main(String[] args) {
 
